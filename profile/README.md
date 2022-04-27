@@ -1,4 +1,4 @@
-## 통/변역사 중개 웹서비스 <a href="https://wable.io/" target="_blank">와블</a> 기능 고도화 및 유지보수
+## 통/변역사 중개 웹서비스 <a href="https://wable.io/" target="_blank">와블(Wable)</a> 기능 고도화 및 유지보수
 ### <a href="https://www.freemoa.net/" target="_blank">프리모아</a>를 통한 외주 프로젝트
 
 |프리모아 프로필 화면|깃허브 private repository|
