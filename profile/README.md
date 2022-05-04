@@ -9,6 +9,7 @@
 
 ### 프리모아 프로필 화면
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/54203041/164409270-cd10e033-fd14-47f8-9d39-a69e6859480e.png">
+
 ### 깃허브 private repository
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/54203041/165340446-8b0dcee9-9ad5-4661-8f4d-838acdf4326e.png">
 
