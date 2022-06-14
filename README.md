@@ -15,6 +15,6 @@
 
 **Backend**
 - Kotlin
-- Spring & Springboot
+- Springboot
 - Mysql
 - Aws
